@@ -13,5 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-app/src/main/jni/keys.c
-app/src/main/cpp/native-lib.cpp
