@@ -7,7 +7,9 @@ Api key is stored in C++ file for security.
 
 # Feature
 1 Weather details as per city name or postal code
+
 2 Weather details as per user current location
+
 3 Change tempature from CELSIUS to FAHRENHEIT and vica-versa
 
 
